@@ -13,8 +13,8 @@
               </svg>
             </div>
             <div>
-              <div class="text-sm font-medium text-gray-700">Text to Speech</div>
-              <div class="text-xs text-gray-500">Convert text to natural speech</div>
+              <div class="text-sm font-medium text-gray-700">文字转语音</div>
+              <div class="text-xs text-gray-500">将文字转换为自然语音</div>
             </div>
           </div>
 
@@ -26,8 +26,8 @@
               </svg>
             </div>
             <div>
-              <div class="text-sm font-medium text-gray-700">Voice Changer</div>
-              <div class="text-xs text-gray-500">Transform voice to different styles</div>
+              <div class="text-sm font-medium text-gray-700">变声器</div>
+              <div class="text-xs text-gray-500">将声音转换为不同风格</div>
             </div>
           </div>
 
@@ -39,8 +39,8 @@
               </svg>
             </div>
             <div>
-              <div class="text-sm font-medium text-gray-700">Voice Separator</div>
-              <div class="text-xs text-gray-500">Extract vocals from audio tracks</div>
+              <div class="text-sm font-medium text-gray-700">人声分离</div>
+              <div class="text-xs text-gray-500">从音频中提取人声</div>
             </div>
           </div>
         </div>
@@ -50,8 +50,8 @@
     <!-- Main Content -->
     <div class="flex-1 bg-gray-50 flex items-center justify-center">
       <div class="text-center">
-        <h1 class="text-2xl font-semibold text-gray-800 mb-2">Welcome to AI Audio Tools</h1>
-        <p class="text-gray-600">Please select a tool from the left sidebar</p>
+        <h1 class="text-2xl font-semibold text-gray-800 mb-2">欢迎使用AI音频工具</h1>
+        <p class="text-gray-600">请从左侧边栏选择一个工具</p>
       </div>
     </div>
   </div>

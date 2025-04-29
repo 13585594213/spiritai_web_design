@@ -7,16 +7,16 @@
         <div class="space-y-2 px-4 py-4">
           <!-- Knowledge Base Items -->
           <div class="p-3 rounded-lg bg-gray-50 cursor-not-allowed">
-            <div class="text-sm font-medium text-gray-700 truncate">Python Programming Guide</div>
-            <div class="text-xs text-gray-500 mt-1">Python fundamentals, advanced concepts, and modern development best practices</div>
+            <div class="text-sm font-medium text-gray-700 truncate">Python编程指南</div>
+            <div class="text-xs text-gray-500 mt-1">Python基础知识、高级概念和现代开发最佳实践</div>
           </div>
           <div class="p-3 rounded-lg bg-gray-50 cursor-not-allowed">
-            <div class="text-sm font-medium text-gray-700 truncate">Vue 3 Development Docs</div>
-            <div class="text-xs text-gray-500 mt-1">Complete documentation for Vue 3, including Composition API, components, and state management</div>
+            <div class="text-sm font-medium text-gray-700 truncate">Vue 3开发文档</div>
+            <div class="text-xs text-gray-500 mt-1">Vue 3的完整文档，包括组合式API、组件和状态管理</div>
           </div>
           <div class="p-3 rounded-lg bg-gray-50 cursor-not-allowed">
-            <div class="text-sm font-medium text-gray-700 truncate">React Best Practices</div>
-            <div class="text-xs text-gray-500 mt-1">React patterns, optimization techniques, and architectural guidelines</div>
+            <div class="text-sm font-medium text-gray-700 truncate">React最佳实践</div>
+            <div class="text-xs text-gray-500 mt-1">React模式、优化技术和架构指南</div>
           </div>
         </div>
       </div>
@@ -30,7 +30,7 @@
           <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4" />
           </svg>
-          New Question
+          新建问题
         </button>
       </div>
 
@@ -39,16 +39,16 @@
         <div class="space-y-2 px-4">
           <!-- Question Items -->
           <div class="p-3 rounded-lg bg-gray-50 cursor-not-allowed">
-            <div class="text-sm font-medium text-gray-700 truncate">What is the difference between AI and ML?</div>
+            <div class="text-sm font-medium text-gray-700 truncate">AI和机器学习有什么区别？</div>
           </div>
           <div class="p-3 rounded-lg bg-gray-50 cursor-not-allowed">
-            <div class="text-sm font-medium text-gray-700 truncate">How does neural network work?</div>
+            <div class="text-sm font-medium text-gray-700 truncate">神经网络是如何工作的？</div>
           </div>
           <div class="p-3 rounded-lg bg-gray-50 cursor-not-allowed">
-            <div class="text-sm font-medium text-gray-700 truncate">What are the main types of machine learning?</div>
+            <div class="text-sm font-medium text-gray-700 truncate">机器学习的主要类型有哪些？</div>
           </div>
           <div class="p-3 rounded-lg bg-gray-50 cursor-not-allowed">
-            <div class="text-sm font-medium text-gray-700 truncate">How to evaluate AI model performance?</div>
+            <div class="text-sm font-medium text-gray-700 truncate">如何评估AI模型的性能？</div>
           </div>
         </div>
       </div>
@@ -59,8 +59,8 @@
       <!-- Welcome Message -->
       <div class="flex-1 flex items-center justify-center">
         <div class="text-center max-w-2xl">
-          <h1 class="text-3xl font-bold text-gray-800 mb-4">Welcome to AI QA</h1>
-          <p class="text-gray-600 mb-8">Ask any questions about artificial intelligence, machine learning, and related technologies.</p>
+          <h1 class="text-3xl font-bold text-gray-800 mb-4">欢迎使用AI问答</h1>
+          <p class="text-gray-600 mb-8">您可以提出任何关于人工智能、机器学习及相关技术的问题。</p>
         </div>
       </div>
 
@@ -71,7 +71,7 @@
             <input 
               type="text" 
               class="flex-1 outline-none px-4 py-2" 
-              placeholder="Ask your question about AI..."
+              placeholder="请输入您关于AI的问题..."
             >
             <button class="bg-blue-500 text-white p-2 rounded-lg hover:bg-blue-600">
               <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
