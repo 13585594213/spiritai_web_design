@@ -75,7 +75,7 @@
                 <div class="text-sm text-gray-600 truncate">把土豆炖化的方法</div>
               </div>
               <div class="p-2 rounded-lg hover:bg-gray-50 cursor-pointer">
-                <div class="text-sm text-gray-600 truncate">香料的选择</div>
+                <div class="text-sm text-gray-600 truncate">香料种类</div>
               </div>
             </div>
           </div>
